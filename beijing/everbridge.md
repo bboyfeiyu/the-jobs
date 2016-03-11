@@ -11,7 +11,7 @@
 
 
 
-## Android Developer: 1人
+## Android Developer: 1人  ( 薪资 15 ~ 25K )
 
 1. 独立完成 Android 手机软件开发；
 2. 参与客户端产品的技术实现讨论，框架设计；
