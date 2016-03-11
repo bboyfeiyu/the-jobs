@@ -21,4 +21,6 @@
 6. 熟悉android应用开发框架，对其他移动平台有一定了解。有良好的C/C++/JAVA功底者优先；
 
 
+工作地点 : 北京市东城区东四十条地铁站附近。     
+
 如有兴趣请将简历投到 [simplecoder.h@gmail.com](mailto:simplecoder.h@gmail.com) 。
