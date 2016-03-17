@@ -14,4 +14,4 @@
 5. 有快速学习以及独立解决问题的能力### 加分项
 1. 有电商或交易类 App 开发经验2. 有支付、清结算及账务系统开发经验 
 3. 熟悉 React Native 框架
-> 联系方式 [simplecoder.h@gmail.com](mailto: simplecoder.h@gmail.com)￼
+> 联系方式 [simplecoder.h@gmail.com](mailto: simplecoder.h@gmail.com), 请注明应聘 `分贝金服` .￼
